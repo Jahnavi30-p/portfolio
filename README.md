@@ -16,15 +16,6 @@
 
 - **HTML5** – Structure of the webpage  
 - **CSS3** – Styling and layout  
-- **JavaScript (Vanilla)** – Mobile navigation toggle  
-
----
-
-## 🧠 Projects Featured
-
-- ✅ Library Management System (C++)
-- ✅ Quiz Game (C++)
-- ✅ Match Cards Memory Game (Java + Swing)
-- ✅ To Do List CLI/GUI App (Java)
+- **JavaScript** – Mobile navigation toggle  
 
 ---
